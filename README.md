@@ -1,4 +1,4 @@
-# 💫 I'm KRITHIK RAJ
+# 💫 Heyy I'm KRITHIK RAJ
 🚀 Passionate Computer Science student driven by a vision to build intelligent, scalable, and impactful software.<br>🧠 Specializing in Artificial Intelligence, Machine Learning, Full Stack Development, and Computer Vision, with a strong interest in solving real-world challenges through technology.<br>💡 I enjoy transforming complex ideas into elegant solutions—whether it's training ML models, engineering modern web applications, or designing intuitive user experiences.<br>🌱 Constantly learning, building, and exploring emerging technologies to create software that delivers meaningful impact.<br>🎯 Mission: To engineer the future through innovation, intelligence, and clean code.
 
 
