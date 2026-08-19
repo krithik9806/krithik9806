@@ -1,19 +1,39 @@
-# 👋 Hello, I'm Krithik Raj K
+# 👋 Hey, I'm Krithik Raj
 
-🧠 CSE student building at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, and Full Stack Development**.
+> 🧠 **CSE Student | AI/ML | Computer Vision | Full Stack Development**
 
-I turn ideas into working systems — from **training ML models and developing intelligent applications** to **engineering scalable web products and intuitive interfaces**.
+### ⚡ What I Build
 
-🔧 **Core Interests**
-- Artificial Intelligence & Machine Learning
-- Computer Vision
-- Full Stack Development
-- Software Engineering
+I build software at the intersection of **intelligence and engineering** — from machine learning models and computer vision systems to scalable web applications and intuitive user experiences.
 
-⚙️ I enjoy understanding systems from the ground up, building them, breaking them, and refining them until they work the way they should.
+🔬 **Artificial Intelligence & Machine Learning**  
+👁️ **Computer Vision & Intelligent Systems**  
+💻 **Full Stack Web Development**  
+⚙️ **Software Engineering & Problem Solving**
 
-🚀 **Build software. Explore intelligence. Engineer what comes next.**
+### 🛠️ How I Work
 
+🧩 **Understand** → 🔨 **Build** → 🧪 **Experiment** → 🐛 **Break** → ⚙️ **Improve** → 🚀 **Ship**
+
+I enjoy going beyond simply using technology — **understanding how it works, building systems from the ground up, and refining them into something useful.**
+
+### 🌱 Currently Exploring
+
+🤖 AI & Machine Learning  
+👁️ Computer Vision  
+🌐 Modern Web Technologies  
+🧠 Intelligent Software Systems  
+⚛️ Emerging Technologies
+
+### 🎯 The Goal
+
+**Build things worth understanding.  
+Engineer things worth using.  
+Keep pushing what software can do.**
+
+---
+
+> 🚀 **Build. Experiment. Evolve.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krynn_brix10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/krithik-raj-k) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/krithikrajk7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikrithik2006@gmail.com) 
