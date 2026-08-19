@@ -1,5 +1,18 @@
-# 💫 Hey I'm KRITHIK RAJ K
-🚀 I'm a CSE student driven by a vision to build intelligent, scalable, and impactful software.<br>🧠 Specializing in Artificial Intelligence, Machine Learning, Full Stack Development, and Computer Vision, with a strong interest in solving real-world challenges through technology.<br>💡 I enjoy transforming complex ideas into elegant solutions—whether it's training ML models, engineering modern web applications, or designing intuitive user experiences.<br>🌱 Constantly learning, building, and exploring emerging technologies to create software that delivers meaningful impact.<br>🎯 Mission: To engineer the future through innovation, intelligence, and clean code.
+# 👋 Hello, I'm Krithik Raj K
+
+🧠 CSE student building at the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, and Full Stack Development**.
+
+I turn ideas into working systems — from **training ML models and developing intelligent applications** to **engineering scalable web products and intuitive interfaces**.
+
+🔧 **Core Interests**
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Full Stack Development
+- Software Engineering
+
+⚙️ I enjoy understanding systems from the ground up, building them, breaking them, and refining them until they work the way they should.
+
+🚀 **Build software. Explore intelligence. Engineer what comes next.**
 
 
 ## 🌐 Socials:
