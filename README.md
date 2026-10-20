@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Krithik Raj
+# 👋 Hey, I'm Krithik Raj K
 
 > 🧠 **CSE Student | AI/ML | Computer Vision | Full Stack Development**
 
